@@ -1,8 +1,8 @@
 {
   "users":[ 
-    {"id": 1,"username": "usuario1","email": "usuario1@correo.com",}
-    {"id": 2,"username": "usuario2","email": "usuario2@correo.com",}
-    {"id": 3,"username": "usuario3","email": "usuario3@correo.com",}  
+    {"id": 1,"username": "usuario1","email": "usuario1@correo.com"},
+    {"id": 2,"username": "usuario2","email": "usuario2@correo.com"},
+    {"id": 3,"username": "usuario3","email": "usuario3@correo.com"}  
   
   ],
   "posts": [
